@@ -1,2 +1,2 @@
-# CP_challenge
+# Codeforces_PS
 All problem solving code in C++
